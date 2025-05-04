@@ -1,6 +1,6 @@
 <?php
 
-// Data dummy kursus
+// Data dummy pelatihan
 $dataDummy = [
     [
         'nama'   => 'Desain Grafis',
